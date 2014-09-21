@@ -5,7 +5,7 @@ The R script in this repo, `run_analysis.R` calculates means per activity and su
 
 The script outputs the file: `./tidy_data.txt`
 
-For futher details, refer to [CodeBook.md](CookBook.md)
+For futher details, refer to [CodeBook.md](CodeBook.md)
 
 
 ## Required R Packages
